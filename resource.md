@@ -1,3 +1,5 @@
 [List_of_open_access_journals](https://en.wikipedia.org/wiki/List_of_open_access_journals)  
 [Arxiv](https://arxiv.org)  
 [ICML](https://icml.cc/Conferences/2017/Schedule?type=Poster)  
+[Conference rank of CS](https://www.aminer.cn/ranks/conf)  
+[Recent submissions of Machine Learning](https://arxiv.org/list/cs.LG/recent)  

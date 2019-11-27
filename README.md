@@ -8,4 +8,4 @@ This respository includes some notes and resource recordings about reading paper
 - Deep Learning
 - Cyber Security
 
-## Resource
+## [Resource](./resource.md)
